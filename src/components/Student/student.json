@@ -1,0 +1,301 @@
+{
+  "apExam": [
+    [
+      {
+        "id": 1,
+
+        "students": "Lo",
+        "result": "Lv5",
+        "subjects": "Chemistry",
+        "school": "ICS",
+        "exam": "AP"
+      }
+    ]
+  ],
+
+  "ibExam": [
+    [
+      {
+        "id": 1,
+        "students": "Chung",
+        "result": "Lv6/IB SL",
+        "subjects": "Mathematics",
+        "school": "Island School"
+      },
+      {
+        "id": 2,
+        "students": "Kotkar",
+        "result": "Lv6/IB HL",
+        "subjects": "Chemistry",
+        "school": "Island School"
+      },
+      {
+        "id": 3,
+        "students": "Cheung",
+        "result": "Lv7/IB SL",
+        "subjects": "Mathematics",
+        "school": "German Swiss International School"
+      },
+      {
+        "id": 4,
+        "students": "Wan",
+        "result": "Lv6/IB SL",
+        "subjects": "Mathematics",
+        "school": "Island School"
+      },
+      {
+        "id": 5,
+        "students": "Ho",
+        "result": "Lv6/IB HL",
+        "subjects": "Chemistry",
+        "school": "South Island School"
+      }
+    ]
+  ],
+  "igcseEExam": [
+    [
+      {
+        "id": 1,
+        "students": "Cheung",
+        "result": "A*",
+        "subjects": "Chemistry",
+        "school": "German Swiss International School"
+      },
+      {
+        "id": 2,
+        "students": "Anuj",
+        "result": "7A*",
+        "subjects": "Science & Mathematics",
+        "school": "German Swiss International School"
+      },
+      {
+        "id": 3,
+        "students": "Sashill",
+        "result": "A",
+        "subjects": "All sciences",
+        "school": "Korean International School"
+      },
+      {
+        "id": 4,
+        "students": "Li",
+        "result": "A",
+        "subjects": "Physic, Chemistry & Biology",
+        "school": "South Island School"
+      },
+      {
+        "id": 5,
+        "students": "Kaczorowsa",
+        "result": "A",
+        "subjects": "Physic, Chemistry & Biology",
+        "school": "South Island School"
+      },
+      {
+        "id": 6,
+        "students": "Fong",
+        "result": "A*",
+        "subjects": "Physic, Chemistry & Mathematics",
+        "school": "Island School"
+      },
+      {
+        "id": 7,
+        "students": "Suen",
+        "result": "A",
+        "subjects": "Science double award",
+        "school": "South Island School"
+      },
+      {
+        "id": 8,
+        "students": "matteo",
+        "result": "10A*",
+        "subjects": "Science triple award & Mathematics",
+        "school": "South Island School"
+      },
+      {
+        "id": 9,
+        "students": "Promboon",
+        "result": "A",
+        "subjects": "Physic, Chemistry, Biology",
+        "school": "South Island School"
+      },
+      {
+        "id": 10,
+        "students": "Pratel",
+        "result": "A*",
+        "subjects": "Chemistry",
+        "school": "Island School"
+      },
+      {
+        "id": 11,
+        "students": "Chung",
+        "result": "A*",
+        "subjects": "Chemistry & Biology",
+        "school": "Island School"
+      },
+      {
+        "id": 12,
+        "students": "Chung",
+        "result": "A* & A",
+        "subjects": "Physic, Chemistry, Biology",
+        "school": "South Island School"
+      },
+      {
+        "id": 13,
+        "students": "Sze",
+        "result": "A*",
+        "subjects": "Physic, Chemistry, Biology & Mathematics",
+        "school": "South Island School"
+      },
+      {
+        "id": 14,
+        "students": "Brandi",
+        "result": "A*",
+        "subjects": "Science double award",
+        "school": "South Island School"
+      },
+      {
+        "id": 15,
+        "students": "Tam",
+        "result": "A*",
+        "subjects": "Physic, Chemistry, Biology",
+        "school": "Kiangsu & Chekiang International School"
+      },
+      {
+        "id": 16,
+        "students": "Chloe",
+        "result": "A*",
+        "subjects": "Science double award & Mathematics",
+        "school": "South Island School"
+      },
+      {
+        "id": 17,
+        "students": "Ddibe",
+        "result": "A*",
+        "subjects": "Physic, Chemistry, Biology & Mathematics",
+        "school": "South Island School"
+      }
+    ]
+  ],
+  "igcseCExam": [
+    [
+      {
+        "id": 1,
+        "students": "Cheung",
+        "result": "A*",
+        "subjects": "Chemistry",
+        "school": "German Swiss International School"
+      },
+      {
+        "id": 2,
+        "students": "Sashill",
+        "result": "A",
+        "subjects": "All sciences",
+        "school": "Korean International School"
+      },
+      {
+        "id": 3,
+        "students": "Anuj",
+        "result": "7A*",
+        "subjects": "Science & Mathematics",
+        "school": "German Swiss International School"
+      }
+    ]
+  ],
+  "cieExam": [
+    [
+      {
+        "id": 4,
+        "students": "Giuliano",
+        "result": "A*",
+        "subjects": "Physic, Chemistry & Biology",
+        "school": "Shatin College",
+        "exam": "AP"
+      }
+    ]
+  ],
+  "gceExam": [
+    [
+      {
+        "id": 1,
+        "students": "Chow",
+        "result": "A* (GCE edexcel)",
+        "subjects": "Chemistry",
+        "school": "Brighton College"
+      },
+      {
+        "id": 2,
+        "students": "Jim",
+        "result": "A (GCE)",
+        "subjects": "Chemistry",
+        "school": "Headington College"
+      }
+    ]
+  ],
+  "university": [
+    [
+      {
+        "id": 1,
+        "name": "Wan",
+        "result": "Lv 6",
+        "level": "IB SL",
+        "subject": "Mathematics",
+        "school": "Environment science, University of Toronto"
+      },
+      {
+        "id": 2,
+        "name": "Jim",
+        "result": "A",
+        "level": "AQA GCE",
+        "subject": "Account & finance",
+        "school": "University of Warwick"
+      },
+      {
+        "id": 3,
+        "name": "Cheung",
+        "result": "Lv 7",
+        "level": "IB SL",
+        "subject": "Mathematics",
+        "school": "Law, University College London"
+      },
+      {
+        "id": 4,
+        "name": "Kotar",
+        "result": "Lv 6",
+        "level": "IB HL",
+        "subject": "Chemistry",
+        "school": "Animal Science, University of Exeter"
+      },
+      {
+        "id": 5,
+        "name": "Chung",
+        "result": "Lv 6",
+        "level": "IB SL",
+        "subject": "Mathematics",
+        "school": "Law, City University of Hong Kong"
+      },
+      {
+        "id": 6,
+        "name": "Chow",
+        "result": "A*",
+        "level": "GCE edexcel",
+        "subject": "Chemistry",
+        "school": "Medicine, University of Hong Kong"
+      },
+      {
+        "id": 7,
+        "name": "Ho",
+        "result": "Lv 6",
+        "level": "IB HL",
+        "subject": "Chemistry",
+        "school": "Biochemistry, New York University"
+      },
+      {
+        "id": 8,
+        "name": "Wong",
+        "result": "3 subjects A*",
+        "level": "",
+        "subject": "university chemistry exam",
+        "school": "Dentistry, Swansea"
+      }
+    ]
+  ]
+}

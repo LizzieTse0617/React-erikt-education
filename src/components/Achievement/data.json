@@ -1,0 +1,264 @@
+[
+  {
+    "id": 1,
+    "name": "AP Chemistry",
+    "year": 2019,
+
+    "feature": "100% students got Level 5 & 4",
+    "lv5student": 1,
+    "lv4student": 1,
+    "studentName": "Chan,Leung"
+  },
+  {
+    "id": 2,
+    "name": "AP Biology",
+    "year": 2019,
+
+    "feature": "100% students got Level 5 & 4",
+    "lv5student": 2,
+    "lv4student": 4,
+    "studentName": "Guo,Lee,Leung,Lo,Mak,Ngai"
+  },
+  {
+    "id": 3,
+    "name": "AP Statistics",
+    "year": 2019,
+
+    "feature": "100% students got Level 5 & 4",
+    "lv5student": 4,
+    "lv4student": 2,
+    "studentName": "Chan,Chung,Lee,Kwan,Ma,Mak"
+  },
+  {
+    "id": 4,
+    "name": "AP Calculus AB",
+    "year": 2019,
+
+    "feature": "100% students got Level 5",
+    "lv5student": 1,
+    "lv4student": 0,
+    "studentName": "Lo"
+  },
+  {
+    "id": 5,
+    "name": "SAT Biology E",
+    "year": 2019,
+
+    "feature": "ALL got 720 and above",
+    "lv5student": "2",
+    "lv4student": 0,
+    "studentName": "Leung,Ngai(760: 1 student; 720:1)"
+  },
+  {
+    "id": 6,
+    "name": "SAT Biology M",
+    "year": 2019,
+
+    "feature": "100% students full score",
+    "lv5student": "2 ",
+    "lv4student": 0,
+    "studentName": "Mak(760: 1 student; 720:1 )"
+  },
+  {
+    "id": 7,
+    "name": "SAT Chemistry",
+    "year": 2019,
+    "feature": "ALL got 740 and above",
+    "lv5student": "740: 1",
+    "lv4student": 0,
+    "studentName": "Leung"
+  },
+
+  {
+    "id": 8,
+    "name": "AP Chemistry",
+    "year": 2020,
+
+    "feature": "Over 70% students got Level 5",
+    "lv5student": 5,
+    "lv4student": 2,
+    "studentName": "Guo,Kee,Kwan,Li,Mak,Sung,Yeung"
+  },
+  {
+    "id": 9,
+    "name": "AP Biology",
+    "year": 2020,
+
+    "feature": "100% students got Level 5 & 4",
+    "lv5student": 1,
+    "lv4student": 0,
+    "studentName": "Chan"
+  },
+  {
+    "id": 10,
+    "name": "AP Statistic",
+    "year": 2020,
+
+    "feature": "Over 83% students got Level 5",
+    "lv5student": 3,
+    "lv4student": 1,
+    "studentName": "Chan,Guo,Li,Tang,Tran,Yeung"
+  },
+  {
+    "id": 11,
+    "name": "AP Physics",
+    "year": 2020,
+
+    "feature": "80% students got Level 5",
+    "lv5student": 4,
+    "lv4student": 1,
+    "studentName": "Kwan,Ma,Sung,Wong,Yeung"
+  },
+  {
+    "id": 12,
+    "name": "AP Calculus AB",
+    "year": 2020,
+
+    "feature": "100% students got Level 5",
+    "lv5student": 1,
+    "lv4student": 0,
+    "studentName": "Wu"
+  },
+  {
+    "id": 13,
+    "name": "AP Calculus BC",
+    "year": 2020,
+
+    "feature": "100% students got Level 5",
+    "lv5student": 6,
+    "lv4student": 0,
+    "studentName": "Chan,Kee,Kwan,Ma,Sung,Wong"
+  },
+
+  {
+    "id": 14,
+    "name": "AP Biology",
+    "year": 2021,
+
+    "feature": "Almost 90% students got Level 5",
+    "lv5student": 7,
+    "lv4student": 1,
+    "studentName": "Chan,Cheung,Kee,Kwan,Leung,Yeung,Yeung"
+  },
+  {
+    "id": 15,
+    "name": "AP Chemistry",
+    "year": 2021,
+
+    "feature": "Over 80% students got Level 5 & 4",
+    "lv5student": 4,
+    "lv4student": 2,
+    "studentName": "Chan,Chan,Cheung,Law,Liu,Poon"
+  },
+  {
+    "id": 16,
+    "name": "AP Calculus BC",
+    "year": 2021,
+
+    "feature": "100% students got Level 5",
+    "lv5student": 3,
+    "lv4student": 0,
+    "studentName": "Leung,Li,Yeung"
+  },
+  {
+    "id": 17,
+    "name": "AP Physics 2",
+    "year": 2021,
+
+    "feature": "100% students got Level 5",
+    "lv5student": 1,
+    "lv4student": 0,
+    "studentName": "Kwan"
+  },
+  {
+    "id": 18,
+    "name": "AP Statistics",
+    "year": 2021,
+
+    "feature": "Over 80% students got Level 5",
+    "lv5student": 5,
+    "lv4student": 0,
+    "studentName": "Chan,Kee,Law,Sung,Tong,Yeung"
+  },
+  {
+    "id": 19,
+    "name": "AP Calculus AB",
+    "year": 2021,
+
+    "feature": "100% students got Level 5",
+    "lv5student": 2,
+    "lv4student": 0,
+    "studentName": "Tang, Tran"
+  },
+  {
+    "id": 20,
+    "name": "AP Physics 1",
+    "year": 2021,
+
+    "feature": "100% students got Level 5",
+    "lv5student": 1,
+    "lv4student": 0,
+    "studentName": "Chan"
+  },
+  {
+    "id": 21,
+    "name": "AP Physics C",
+    "year": 2021,
+
+    "feature": "100% students got Level 5",
+    "lv5student": 3,
+    "lv4student": 0,
+    "studentName": "Kwan,Ma,Sung"
+  },
+
+  {
+    "id": 21,
+    "name": "AP Chemistry",
+    "year": 2022,
+
+    "feature": "Almost 80% students got Level 5 & 4",
+    "lv5student": 4,
+    "lv4student": 2,
+    "studentName": "Chan,Ngai,Ngai,Tam,Tam,Tong,Wong,Wu"
+  },
+  {
+    "id": 22,
+    "name": "AP Biology",
+    "year": 2022,
+
+    "feature": "100% students got Level 5 & 4",
+    "lv5student": 2,
+    "lv4student": 2,
+    "studentName": "Lai,Law,Poon"
+  },
+  {
+    "id": 23,
+    "name": "AP Statistics",
+    "year": 2022,
+
+    "feature": "Over 80% students got Level 5",
+    "lv5student": 4,
+    "lv4student": 1,
+    "studentName": "Li,Liu,Ngai,Poon,Tsih,Wu"
+  },
+  {
+    "id": 24,
+    "name": "AP Calculus BC",
+    "year": 2022,
+
+    "feature": "100% students got Level 5",
+    "lv5student": 2,
+    "lv4student": 0,
+    "studentName": "Tong,Wong"
+  },
+  {
+    "id": 25,
+    "name": "AP Physic 1",
+    "year": 2022,
+
+    "feature": "100% students got Level 5",
+    "lv5student": 2,
+    "lv4student": 0,
+    "studentName": "Kan,Wong"
+  }
+]

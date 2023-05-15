@@ -1,0 +1,46 @@
+h2 {
+  font-weight: 700;
+}
+
+h3 {
+  background-color: var(--lightpurple);
+  padding: 0.5rem;
+  border-radius: 0.5rem;
+  color: var(--highlight-purple);
+  font-weight: 700;
+
+  display: inline;
+}
+
+p {
+  margin: 1rem 0;
+}
+.table {
+  background-color: var(--lightgrey);
+}
+
+.table ul {
+  list-style-type: none;
+  padding: 1rem;
+  border: 0.5px solid var(--middlegrey);
+  border-radius: 1rem;
+  background-color: var(--white);
+}
+
+.achievement .btn:hover {
+  background-color: #805ad5;
+  color: white;
+}
+
+.introduction .btn:hover {
+  background-color: #805ad5;
+  color: white;
+}
+.introduction {
+  border-bottom: 0.5px solid var(--middlegrey);
+}
+
+html,
+body {
+  height: 100%;
+}

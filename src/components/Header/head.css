@@ -1,0 +1,51 @@
+.header {
+  overflow: hidden;
+  z-index: 1;
+  width: 100%;
+  padding: 1rem 1rem;
+  padding: 0;
+  border-bottom: 1px solid grey;
+}
+
+.sticky-paragraph {
+  top: 0;
+  text-align: center;
+  color: var(--white);
+  font-weight: 600;
+
+  padding: 0.5rem 1rem;
+
+  background: rgb(16, 124, 148);
+  background: linear-gradient(
+    93deg,
+    rgba(16, 124, 148, 1) 0%,
+    rgba(112, 83, 202, 1) 100%
+  );
+}
+
+.nav {
+  margin: 0;
+  padding: 1rem;
+  overflow: hidden;
+
+  width: 100%;
+  color: var(--primary-color);
+  background-color: var(--white);
+}
+
+.logo {
+  float: left;
+}
+.link {
+  float: right;
+}
+.link a {
+  display: inline-block;
+  height: 100%;
+  padding: 0 2rem;
+}
+
+.nav {
+  background-color: var(--primary-color);
+  color: var(--white);
+}
