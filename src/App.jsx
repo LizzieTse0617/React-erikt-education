@@ -16,10 +16,13 @@ function App() {
       <Navbar />
       <Routes>
         <Route path="/" element={<Home />} />
+        <Route path="/home" element={<Home />} />
+        <Route path="/index" element={<Home />} />
+        <Route path="/index.html" element={<Home />} />
         <Route path="/profile" element={<Profile />} />
         <Route path="/subject" element={<Subject />} />
         <Route path="/student" element={<Student />} />
-        <Route path="/*" element={<NotFound />} />
+        <Route path="*" element={<NotFound />} />
       </Routes>
       <Footer />
     </div>

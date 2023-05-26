@@ -1,14 +1,7 @@
-import {
-  Image,
-  Button,
-  Link,
-  Flex,
-  Box,
-  useDisclosure,
-} from '@chakra-ui/react';
+import { Image, Button, Flex, Box, useDisclosure } from '@chakra-ui/react';
 import Head from '../Header/Head';
 import { HamburgerIcon, CloseIcon } from '@chakra-ui/icons';
-
+import { NavLink } from 'react-router-dom';
 const Navbar = () => {
   const { isOpen, onToggle } = useDisclosure();
 
@@ -60,18 +53,21 @@ const Navbar = () => {
               pt={[4, 0, 0, 0]}
               gap="1rem"
             >
-              <Link href="/." activeStyle={{ fontWeight: 'bold' }}>
+              <NavLink to="/" activeStyle={{ fontWeight: 'bold' }}>
                 Home
-              </Link>
-              <Link href="/profile" activeStyle={{ fontWeight: 'bold' }}>
+              </NavLink>
+
+              <NavLink to="/profile" activeStyle={{ fontWeight: 'bold' }}>
                 Profile
-              </Link>
-              <Link href="/subject" activeStyle={{ fontWeight: 'bold' }}>
+              </NavLink>
+
+              <NavLink to="/subject" activeStyle={{ fontWeight: 'bold' }}>
                 Subjects
-              </Link>
-              <Link href="/student" activeStyle={{ fontWeight: 'bold' }}>
+              </NavLink>
+
+              <NavLink to="/student" activeStyle={{ fontWeight: 'bold' }}>
                 All students achievement
-              </Link>
+              </NavLink>
             </Flex>
           </Box>
         </Flex>
