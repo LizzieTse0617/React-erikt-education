@@ -35,7 +35,7 @@ const Navbar = () => {
             </Button>
             <Box>
               <Image
-                src="../../../public/img/logo.svg"
+                src="./public/img/logo.svg"
                 height="2.5rem"
                 alt="Description of the image"
               />
