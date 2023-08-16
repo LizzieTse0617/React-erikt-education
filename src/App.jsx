@@ -5,7 +5,8 @@ import Subject from './components/Rest/Subject';
 import Profile from './components/Rest/Profile';
 import NotFound from './NotFound/NotFound';
 import Navbar from './components/Rest/Navbar';
-
+import React from 'react';
+import ReactDOM from 'react-dom/client';
 import Footer from './components/Footer/Footer';
 
 function App() {

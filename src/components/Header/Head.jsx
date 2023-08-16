@@ -1,5 +1,6 @@
 import { Icon } from '@chakra-ui/react';
 import './head.css';
+import React from 'react';
 import { Highlight } from '@chakra-ui/react';
 import { RiWhatsappFill } from 'react-icons/ri';
 export default function Head() {

@@ -1,5 +1,6 @@
 import { Grid, Text, GridItem, Box } from '@chakra-ui/react';
 import './rest.css';
+import React from 'react';
 export default function School() {
   const breakpoints = {
     sm: '30em', // 480px

@@ -1,5 +1,6 @@
 import './rest.css';
 import { Box, Text } from '@chakra-ui/react';
+import React from 'react';
 export default function Online() {
   return (
     <div className="online-tutoring">

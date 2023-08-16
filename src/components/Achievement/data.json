@@ -260,5 +260,60 @@
     "lv5student": 2,
     "lv4student": 0,
     "studentName": "Kan,Wong"
+  },
+  {
+    "id": 26,
+    "name": "AP Biology",
+    "year": 2023,
+
+    "feature": "100% students got Level 5 & 4",
+    "lv5student": 5,
+    "lv4student": 3,
+    "studentName": "Kan,Lau,Lee,Ngai,Ngan,Tsih,Wong,Wong"
+  },
+  {
+    "id": 27,
+    "name": "AP Chemistry",
+    "year": 2023,
+    "feature": "100% students got Level 5",
+    "lv5student": 1,
+    "lv4student": 0,
+    "studentName": "Lau"
+  },
+  {
+    "id": 28,
+    "name": "AP Physic 2",
+    "year": 2023,
+    "feature": "100% students got Level 5 & 4",
+    "lv5student": 1,
+    "lv4student": 1,
+    "studentName": "Poon,Wong"
+  },
+  {
+    "id": 29,
+    "name": "AP Physic C",
+    "year": 2023,
+    "feature": "100% students got Level 5",
+    "lv5student": 1,
+    "lv4student": 0,
+    "studentName": "Ho"
+  },
+  {
+    "id": 30,
+    "name": "AP Statistics",
+    "year": 2023,
+    "feature": "100% students got Level 5",
+    "lv5student": 3,
+    "lv4student": 0,
+    "studentName": "Chan,Mok,Wong"
+  },
+  {
+    "id": 31,
+    "name": "AP Calculus AB/BC",
+    "year": 2023,
+    "feature": "100% students got Level 5",
+    "lv5student": 6,
+    "lv4student": 0,
+    "studentName": "Law, Kan, Wong, Lau, Ho, Too(Shanghai Concordia)"
   }
 ]

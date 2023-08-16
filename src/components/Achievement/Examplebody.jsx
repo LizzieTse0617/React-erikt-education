@@ -1,7 +1,7 @@
 import { useState, useEffect } from 'react';
 import data from './data.json';
 import { Box, Image, Text, Button } from '@chakra-ui/react';
-
+import React from 'react';
 import { Grid, GridItem } from '@chakra-ui/react';
 
 export default function Examplebody() {
@@ -13,12 +13,12 @@ export default function Examplebody() {
     '2xl': '96em', // 1536px
   };
 
-  const [activeYear, setActiveYear] = useState('2022');
-  const [activeTab, setActiveTab] = useState('2022');
+  const [activeYear, setActiveYear] = useState('2023');
+  const [activeTab, setActiveTab] = useState('2023');
   const [tableData, setTableData] = useState([]);
 
   useEffect(() => {
-    loadData('2022'); // Load data for the initial year '2022'
+    loadData('2023'); // Load data for the initial year '2022'
   }, []);
 
   const loadData = (value) => {
@@ -52,6 +52,18 @@ export default function Examplebody() {
         mx="auto"
         p="4"
       >
+        <Button
+          className="btn"
+          m="0.1rem"
+          style={{
+            backgroundColor: activeTab === '2023' ? '#5151f9' : '#edecfe',
+            color: activeTab === '2023' ? '#ffffff' : '#1A202C',
+            fontSize: activeTab === '2023' ? '1.5rem' : '1rem',
+          }}
+          onClick={() => loadData('2023')}
+        >
+          2023
+        </Button>
         <Button
           className="btn"
           m="0.1rem"

@@ -1,5 +1,6 @@
 import { Icon, Button } from '@chakra-ui/react';
 import { FaArrowUp } from 'react-icons/fa';
+import React from 'react';
 
 const scrollToTop = () => {
   window.scrollTo({ top: 0, behavior: 'auto' });

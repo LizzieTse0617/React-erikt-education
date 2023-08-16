@@ -1,6 +1,6 @@
 import Profile from '../Rest/Profile';
 import Subject from '../Rest/Subject';
-
+import React from 'react';
 import School from '../Rest/School';
 import Online from '../Rest/Online';
 import Group from '../Rest/Group';

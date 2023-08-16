@@ -1,4 +1,5 @@
 import { Box, Text, Grid, Flex, Container } from '@chakra-ui/react';
+import React from 'react';
 export default function Subject() {
   const breakpoints = {
     sm: '30em', // 480px

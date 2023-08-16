@@ -1,5 +1,5 @@
 import { GridItem, Link, Text, Image, Box } from '@chakra-ui/react';
-
+import React from 'react';
 export default function Introduction() {
   const breakpoints = {
     sm: '30em', // 480px
@@ -60,7 +60,7 @@ export default function Introduction() {
         <Box flex="1" maxW="400px">
           <GridItem pl="0" area={'img'} m="5">
             <Image
-              src="./React-erikt-education/public/img/erik_logo.png"
+              src="../../../public/img/erik_logo.png"
               alt="Erik-t-education.hk-logo"
               height="200px"
             />

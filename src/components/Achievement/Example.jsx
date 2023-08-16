@@ -3,7 +3,7 @@ import data from './data.json';
 import Exampleheader from './Exampleheader';
 import Examplebody from './Examplebody';
 import { Box, Image, Text, Button } from '@chakra-ui/react';
-
+import React from 'react';
 import { Grid, GridItem } from '@chakra-ui/react';
 
 const TableComponent = () => {
@@ -19,7 +19,7 @@ const TableComponent = () => {
   const [tableData, setTableData] = useState([]);
 
   useEffect(() => {
-    loadData('2022'); // Load data for the initial year '2022'
+    loadData('2023'); // Load data for the initial year '2022'
   }, []);
 
   const loadData = (value) => {

@@ -1,5 +1,6 @@
 import { Box, Image, GridItem, Flex, Link } from '@chakra-ui/react';
 import './Footer.css';
+import React from 'react';
 export default function Footer() {
   const breakpoints = {
     sm: '30em', // 480px
